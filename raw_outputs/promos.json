@@ -1,0 +1,1025 @@
+[
+ {
+  "rank": 1,
+  "kind": "continuous",
+  "duration_s": 27.8,
+  "score": 0.792,
+  "segments": [
+   {
+    "episode": 1,
+    "start": "00:46.80",
+    "end": "01:14.60",
+    "start_s": 46.8,
+    "end_s": 74.6
+   }
+  ],
+  "hook": "Lady Juliana: \"You knew this before I walked through those doors!\"",
+  "hook_at": "00:46.80",
+  "cliffhanger": "Lady Juliana: \"How long?\"",
+  "cliffhanger_type": "unanswered question",
+  "why_it_works": "Opens on a reveal line; ends on unanswered question; has context signals for a new viewer (heuristic; verify in footage)",
+  "cliffhanger_at": "01:13.10",
+  "scores": {
+   "hook": 1.0,
+   "cliff": 0.7,
+   "standalone": 0.81,
+   "energy": 0.45,
+   "length": 0.99
+  },
+  "verified": true,
+  "problems": [],
+  "quality_flags": []
+ },
+ {
+  "rank": 2,
+  "kind": "continuous",
+  "duration_s": 32.2,
+  "score": 0.778,
+  "segments": [
+   {
+    "episode": 28,
+    "start": "00:15.20",
+    "end": "00:47.40",
+    "start_s": 15.2,
+    "end_s": 47.4
+   }
+  ],
+  "hook": "Juliana: \"I did not poison her! Look at her eyes, the fever has broken!\"",
+  "hook_at": "00:15.30",
+  "cliffhanger": "Dowager Duchess: \"They have been—\"",
+  "cliffhanger_type": "interrupted line",
+  "why_it_works": "Opens on a shouted line; ends on interrupted line; has context signals for a new viewer (heuristic; verify in footage)",
+  "cliffhanger_at": "00:45.60",
+  "scores": {
+   "hook": 0.9,
+   "cliff": 0.8,
+   "standalone": 0.74,
+   "energy": 0.4,
+   "length": 1.0
+  },
+  "verified": true,
+  "problems": [],
+  "quality_flags": []
+ },
+ {
+  "rank": 3,
+  "kind": "cross-episode",
+  "duration_s": 31.7,
+  "score": 0.754,
+  "segments": [
+   {
+    "episode": 42,
+    "start": "00:16.60",
+    "end": "00:28.80",
+    "start_s": 16.6,
+    "end_s": 28.8
+   },
+   {
+    "episode": 43,
+    "start": "00:10.50",
+    "end": "00:30.00",
+    "start_s": 10.5,
+    "end_s": 30.0
+   }
+  ],
+  "hook": "Blond Nobleman: \"Guards! Arrest this imposter!\"",
+  "hook_at": "00:18.00",
+  "cliffhanger": "Alexander brings forth the dossier stamped \"WAR OFFICE - TOP SECRET\" with the royal crest.",
+  "cliffhanger_type": "shocked/smug reaction beat",
+  "why_it_works": "Opens on a shouted line; ends on shocked/smug reaction beat; has context signals for a new viewer (heuristic; verify in footage) (cross-episode stitch)",
+  "cliffhanger_at": "00:28.20",
+  "scores": {
+   "hook": 1.0,
+   "cliff": 0.85,
+   "standalone": 0.66,
+   "energy": 0.59,
+   "length": 1.0
+  },
+  "verified": true,
+  "problems": [],
+  "quality_flags": []
+ },
+ {
+  "rank": 4,
+  "kind": "continuous",
+  "duration_s": 43.0,
+  "score": 0.737,
+  "segments": [
+   {
+    "episode": 36,
+    "start": "01:57.00",
+    "end": "02:40.00",
+    "start_s": 117.0,
+    "end_s": 160.0
+   }
+  ],
+  "hook": "Alexander: \"You told them the truth!\"",
+  "hook_at": "01:57.50",
+  "cliffhanger": "Alexander: \"They are marrying in two days...\"",
+  "cliffhanger_type": "ticking clock",
+  "why_it_works": "Opens on a shouted line; ends on ticking clock; has context signals for a new viewer (heuristic; verify in footage)",
+  "cliffhanger_at": "02:36.80",
+  "scores": {
+   "hook": 0.9,
+   "cliff": 0.6,
+   "standalone": 0.81,
+   "energy": 0.48,
+   "length": 1.0
+  },
+  "verified": true,
+  "problems": [],
+  "quality_flags": []
+ },
+ {
+  "rank": 5,
+  "kind": "stitched",
+  "duration_s": 30.0,
+  "score": 0.73,
+  "segments": [
+   {
+    "episode": 11,
+    "start": "00:16.80",
+    "end": "00:28.90",
+    "start_s": 16.8,
+    "end_s": 28.9
+   },
+   {
+    "episode": 11,
+    "start": "01:21.30",
+    "end": "01:39.20",
+    "start_s": 81.3,
+    "end_s": 99.2
+   }
+  ],
+  "hook": "Gerald: \"Your husband stole my gold pocket watch!\"",
+  "hook_at": "00:16.80",
+  "cliffhanger": "Juliana draws a sharp, terrified breath as her face pales completely.",
+  "cliffhanger_type": "violent action",
+  "why_it_works": "Opens on a shouted line; ends on violent action; has context signals for a new viewer (heuristic; verify in footage) (stitched setup+payoff)",
+  "cliffhanger_at": "01:37.20",
+  "scores": {
+   "hook": 1.0,
+   "cliff": 0.67,
+   "standalone": 0.63,
+   "energy": 0.59,
+   "length": 1.0
+  },
+  "verified": true,
+  "problems": [],
+  "quality_flags": []
+ },
+ {
+  "rank": 6,
+  "kind": "stitched",
+  "duration_s": 39.8,
+  "score": 0.714,
+  "segments": [
+   {
+    "episode": 27,
+    "start": "00:44.20",
+    "end": "01:02.00",
+    "start_s": 44.2,
+    "end_s": 62.0
+   },
+   {
+    "episode": 27,
+    "start": "02:08.50",
+    "end": "02:30.50",
+    "start_s": 128.5,
+    "end_s": 150.5
+   }
+  ],
+  "hook": "Dowager Duchess: \"What is your husband's name?\"",
+  "hook_at": "00:44.50",
+  "cliffhanger": "The guard twists Juliana around and drags her forcibly toward the doorway as she struggles against his grip.",
+  "cliffhanger_type": "violent action",
+  "why_it_works": "Opens on a confrontational question; ends on violent action; has context signals for a new viewer (heuristic; verify in footage) (stitched setup+payoff)",
+  "cliffhanger_at": "02:25.00",
+  "scores": {
+   "hook": 0.8,
+   "cliff": 0.87,
+   "standalone": 0.63,
+   "energy": 0.4,
+   "length": 1.0
+  },
+  "verified": true,
+  "problems": [],
+  "quality_flags": []
+ },
+ {
+  "rank": 7,
+  "kind": "continuous",
+  "duration_s": 20.0,
+  "score": 0.701,
+  "segments": [
+   {
+    "episode": 46,
+    "start": "01:16.80",
+    "end": "01:36.80",
+    "start_s": 76.8,
+    "end_s": 96.8
+   }
+  ],
+  "hook": "Juliana: \"Now a church calls my marriage a lie!\"",
+  "hook_at": "01:18.10",
+  "cliffhanger": "High Priest: \"God did not marry you. A frightened parishioner did, without leave, without license, without the Crown's blessing!\"",
+  "cliffhanger_type": "threat/ultimatum",
+  "why_it_works": "Opens on a shouted line; ends on threat/ultimatum; has context signals for a new viewer (heuristic; verify in footage)",
+  "cliffhanger_at": "01:32.20",
+  "scores": {
+   "hook": 0.9,
+   "cliff": 0.67,
+   "standalone": 0.81,
+   "energy": 0.35,
+   "length": 0.5
+  },
+  "verified": true,
+  "problems": [],
+  "quality_flags": []
+ },
+ {
+  "rank": 8,
+  "kind": "continuous",
+  "duration_s": 26.7,
+  "score": 0.696,
+  "segments": [
+   {
+    "episode": 41,
+    "start": "00:57.80",
+    "end": "01:24.50",
+    "start_s": 57.8,
+    "end_s": 84.5
+   }
+  ],
+  "hook": "Juliana: \"You needed an entire chapel to feel powerful over one chained woman?\"",
+  "hook_at": "00:58.00",
+  "cliffhanger": "A violent fireball bursts inward as the entire cathedral entrance explodes, blasting the massive double doors and masonry into flying shrapnel and billowing smoke.",
+  "cliffhanger_type": "violent action",
+  "why_it_works": "Opens on a confrontational question; ends on violent action; has context signals for a new viewer (heuristic; verify in footage)",
+  "cliffhanger_at": "01:21.80",
+  "scores": {
+   "hook": 0.65,
+   "cliff": 0.97,
+   "standalone": 0.67,
+   "energy": 0.5,
+   "length": 0.92
+  },
+  "verified": true,
+  "problems": [],
+  "quality_flags": []
+ },
+ {
+  "rank": 9,
+  "kind": "stitched",
+  "duration_s": 40.8,
+  "score": 0.689,
+  "segments": [
+   {
+    "episode": 34,
+    "start": "00:00.00",
+    "end": "00:19.40",
+    "start_s": 0.0,
+    "end_s": 19.4
+   },
+   {
+    "episode": 34,
+    "start": "01:33.80",
+    "end": "01:55.20",
+    "start_s": 93.8,
+    "end_s": 115.2
+   }
+  ],
+  "hook": "Judge: \"Lady Juliana Ashcroft, you are accused of witchcraft, unlawful healing, and poisoning.\"",
+  "hook_at": "00:01.20",
+  "cliffhanger": "Lady Juliana: \"What were their illnesses?\"",
+  "cliffhanger_type": "unanswered question",
+  "why_it_works": "Opens on an intense line; ends on unanswered question; has context signals for a new viewer (heuristic; verify in footage) (stitched setup+payoff)",
+  "cliffhanger_at": "01:53.20",
+  "scores": {
+   "hook": 0.85,
+   "cliff": 0.6,
+   "standalone": 0.92,
+   "energy": 0.38,
+   "length": 1.0
+  },
+  "verified": true,
+  "problems": [],
+  "quality_flags": []
+ },
+ {
+  "rank": 10,
+  "kind": "stitched",
+  "duration_s": 30.8,
+  "score": 0.686,
+  "segments": [
+   {
+    "episode": 5,
+    "start": "00:10.50",
+    "end": "00:25.00",
+    "start_s": 10.5,
+    "end_s": 25.0
+   },
+   {
+    "episode": 5,
+    "start": "00:41.50",
+    "end": "00:57.80",
+    "start_s": 41.5,
+    "end_s": 57.8
+   }
+  ],
+  "hook": "Juliana: \"The vows are spoken, Father. I am his wife now.\"",
+  "hook_at": "00:11.70",
+  "cliffhanger": "Lady Ashcroft snatches the heavy book away and flings it disdainfully into the rain-soaked courtyard.",
+  "cliffhanger_type": "violent action",
+  "why_it_works": "Opens on an intense line; ends on violent action; has context signals for a new viewer (heuristic; verify in footage) (stitched setup+payoff)",
+  "cliffhanger_at": "00:54.50",
+  "scores": {
+   "hook": 0.85,
+   "cliff": 0.64,
+   "standalone": 0.77,
+   "energy": 0.46,
+   "length": 1.0
+  },
+  "verified": true,
+  "problems": [],
+  "quality_flags": [
+   "Camera notes leave 1 gap(s) in range (longest 3.0s; 3.0s total overlap); verify against footage."
+  ]
+ },
+ {
+  "rank": 11,
+  "kind": "continuous",
+  "duration_s": 49.6,
+  "score": 0.683,
+  "segments": [
+   {
+    "episode": 3,
+    "start": "00:16.40",
+    "end": "01:06.00",
+    "start_s": 16.4,
+    "end_s": 66.0
+   }
+  ],
+  "hook": "Lady Juliana: \"This was my wedding.\"",
+  "hook_at": "00:16.60",
+  "cliffhanger": "The guards forcefully grab Juliana by both shoulders and drag her backwards.",
+  "cliffhanger_type": "violent action",
+  "why_it_works": "Opens on an intense line; ends on violent action; has context signals for a new viewer (heuristic; verify in footage)",
+  "cliffhanger_at": "01:00.50",
+  "scores": {
+   "hook": 0.7,
+   "cliff": 0.75,
+   "standalone": 0.75,
+   "energy": 0.49,
+   "length": 1.0
+  },
+  "verified": true,
+  "problems": [],
+  "quality_flags": [
+   "Camera notes leave 1 gap(s) in range (longest 1.8s; 1.8s total overlap); verify against footage."
+  ]
+ },
+ {
+  "rank": 12,
+  "kind": "continuous",
+  "duration_s": 36.5,
+  "score": 0.681,
+  "segments": [
+   {
+    "episode": 32,
+    "start": "00:43.50",
+    "end": "01:20.00",
+    "start_s": 43.5,
+    "end_s": 80.0
+   }
+  ],
+  "hook": "Catherine: \"You still think you are better?!\"",
+  "hook_at": "00:43.40",
+  "cliffhanger": "Catherine: \"Your soldier?\"",
+  "cliffhanger_type": "unanswered question",
+  "why_it_works": "Opens on a confrontational question; ends on unanswered question; has context signals for a new viewer (heuristic; verify in footage)",
+  "cliffhanger_at": "01:17.80",
+  "scores": {
+   "hook": 0.85,
+   "cliff": 0.5,
+   "standalone": 0.81,
+   "energy": 0.41,
+   "length": 1.0
+  },
+  "verified": true,
+  "problems": [],
+  "quality_flags": []
+ },
+ {
+  "rank": 13,
+  "kind": "cross-episode",
+  "duration_s": 28.4,
+  "score": 0.677,
+  "segments": [
+   {
+    "episode": 21,
+    "start": "00:03.60",
+    "end": "00:21.80",
+    "start_s": 3.6,
+    "end_s": 21.8
+   },
+   {
+    "episode": 22,
+    "start": "02:00.80",
+    "end": "02:11.00",
+    "start_s": 120.8,
+    "end_s": 131.0
+   }
+  ],
+  "hook": "Prudence: \"Lady Juliana! Please! You have to help me, Toby is dying!\"",
+  "hook_at": "00:04.20",
+  "cliffhanger": "Extreme close-up on the Dowager Duchess's terrified, wide eyes staring up as she chokes for air, the haunting realization of poison lingering as dramatic music hits an abrupt, suspenseful cliffhanger.",
+  "cliffhanger_type": "shocked/smug reaction beat",
+  "why_it_works": "Opens on a shouted line; ends on shocked/smug reaction beat; has context signals for a new viewer (heuristic; verify in footage) (cross-episode stitch)",
+  "cliffhanger_at": "02:08.80",
+  "scores": {
+   "hook": 0.75,
+   "cliff": 0.97,
+   "standalone": 0.56,
+   "energy": 0.4,
+   "length": 1.0
+  },
+  "verified": true,
+  "problems": [],
+  "quality_flags": []
+ },
+ {
+  "rank": 14,
+  "kind": "cross-episode",
+  "duration_s": 39.9,
+  "score": 0.669,
+  "segments": [
+   {
+    "episode": 15,
+    "start": "00:44.20",
+    "end": "01:03.20",
+    "start_s": 44.2,
+    "end_s": 63.2
+   },
+   {
+    "episode": 16,
+    "start": "00:02.10",
+    "end": "00:23.00",
+    "start_s": 2.1,
+    "end_s": 23.0
+   }
+  ],
+  "hook": "Thug With Cap: \"Get out of the way!\"",
+  "hook_at": "00:44.80",
+  "cliffhanger": "Alexander strikes the thug across the chest and slams him violently into the muddy ground beside the stone wall.",
+  "cliffhanger_type": "violent action",
+  "why_it_works": "Opens on a shouted line; ends on violent action; has context signals for a new viewer (heuristic; verify in footage) (cross-episode stitch)",
+  "cliffhanger_at": "00:19.20",
+  "scores": {
+   "hook": 0.9,
+   "cliff": 0.76,
+   "standalone": 0.59,
+   "energy": 0.48,
+   "length": 1.0
+  },
+  "verified": true,
+  "problems": [],
+  "quality_flags": [
+   "Camera notes leave 1 gap(s) in range (longest 2.0s; 2.0s total overlap); verify against footage.",
+   "Camera notes leave 1 gap(s) in range (longest 2.3s; 2.3s total overlap); verify against footage."
+  ]
+ },
+ {
+  "rank": 15,
+  "kind": "continuous",
+  "duration_s": 52.0,
+  "score": 0.699,
+  "segments": [
+   {
+    "episode": 43,
+    "start": "00:24.00",
+    "end": "01:16.00",
+    "start_s": 24.0,
+    "end_s": 76.0
+   }
+  ],
+  "hook": "Blond Nobleman: \"You have all been deceived!\"",
+  "hook_at": "00:24.10",
+  "cliffhanger": "Alexander: \"And when you believed I was dead...\"",
+  "cliffhanger_type": "trailing line",
+  "why_it_works": "Opens on a shouted line; ends on trailing line; has context signals for a new viewer (heuristic; verify in footage)",
+  "cliffhanger_at": "01:12.80",
+  "scores": {
+   "hook": 0.75,
+   "cliff": 0.67,
+   "standalone": 0.81,
+   "energy": 0.41,
+   "length": 0.9
+  },
+  "verified": true,
+  "problems": [],
+  "quality_flags": []
+ },
+ {
+  "rank": 16,
+  "kind": "stitched",
+  "duration_s": 34.3,
+  "score": 0.697,
+  "segments": [
+   {
+    "episode": 28,
+    "start": "01:18.90",
+    "end": "01:37.40",
+    "start_s": 78.9,
+    "end_s": 97.4
+   },
+   {
+    "episode": 28,
+    "start": "01:53.00",
+    "end": "02:08.80",
+    "start_s": 113.0,
+    "end_s": 128.8
+   }
+  ],
+  "hook": "Catherine: \"A witch has no need for family heirlooms in the gallows.\"",
+  "hook_at": "01:19.00",
+  "cliffhanger": "Catherine: \"This book of weeds will hang her before the magistrate.\"",
+  "cliffhanger_type": "ticking clock",
+  "why_it_works": "Opens on an intense line; ends on ticking clock; has context signals for a new viewer (heuristic; verify in footage) (stitched setup+payoff)",
+  "cliffhanger_at": "02:05.90",
+  "scores": {
+   "hook": 0.95,
+   "cliff": 0.6,
+   "standalone": 0.77,
+   "energy": 0.43,
+   "length": 1.0
+  },
+  "verified": true,
+  "problems": [],
+  "quality_flags": []
+ },
+ {
+  "rank": 17,
+  "kind": "stitched",
+  "duration_s": 34.1,
+  "score": 0.653,
+  "segments": [
+   {
+    "episode": 2,
+    "start": "00:00.00",
+    "end": "00:15.80",
+    "start_s": 0.0,
+    "end_s": 15.8
+   },
+   {
+    "episode": 2,
+    "start": "00:58.20",
+    "end": "01:16.50",
+    "start_s": 58.2,
+    "end_s": 76.5
+   }
+  ],
+  "hook": "The Former Groom: \"I cannot marry you, Juliana.\"",
+  "hook_at": "00:00.00",
+  "cliffhanger": "Lady Juliana: \"Dignity?\"",
+  "cliffhanger_type": "unanswered question",
+  "why_it_works": "Opens on an intense line; ends on unanswered question; has context signals for a new viewer (heuristic; verify in footage) (stitched setup+payoff)",
+  "cliffhanger_at": "01:14.40",
+  "scores": {
+   "hook": 0.7,
+   "cliff": 0.6,
+   "standalone": 0.92,
+   "energy": 0.42,
+   "length": 1.0
+  },
+  "verified": true,
+  "problems": [],
+  "quality_flags": []
+ },
+ {
+  "rank": 18,
+  "kind": "continuous",
+  "duration_s": 43.0,
+  "score": 0.652,
+  "segments": [
+   {
+    "episode": 33,
+    "start": "01:08.80",
+    "end": "01:51.80",
+    "start_s": 68.8,
+    "end_s": 111.8
+   }
+  ],
+  "hook": "Maid: \"Please, my Lord... he is only seven!\"",
+  "hook_at": "01:09.50",
+  "cliffhanger": "Lord: \"Praying... or chanting?\"",
+  "cliffhanger_type": "unanswered question",
+  "why_it_works": "Opens on a shouted line; ends on unanswered question; has context signals for a new viewer (heuristic; verify in footage)",
+  "cliffhanger_at": "01:48.00",
+  "scores": {
+   "hook": 0.75,
+   "cliff": 0.5,
+   "standalone": 0.74,
+   "energy": 0.49,
+   "length": 1.0
+  },
+  "verified": true,
+  "problems": [],
+  "quality_flags": []
+ },
+ {
+  "rank": 19,
+  "kind": "continuous",
+  "duration_s": 22.7,
+  "score": 0.651,
+  "segments": [
+   {
+    "episode": 45,
+    "start": "00:51.80",
+    "end": "01:14.50",
+    "start_s": 51.8,
+    "end_s": 74.5
+   }
+  ],
+  "hook": "Alexander: \"You poisoned my mother. You tortured my wife.\"",
+  "hook_at": "00:54.00",
+  "cliffhanger": "Alexander: \"Before the Crown and before God...\"",
+  "cliffhanger_type": "ticking clock",
+  "why_it_works": "Opens on an intense line; ends on ticking clock; has context signals for a new viewer (heuristic; verify in footage)",
+  "cliffhanger_at": "01:11.50",
+  "scores": {
+   "hook": 0.7,
+   "cliff": 0.6,
+   "standalone": 0.81,
+   "energy": 0.45,
+   "length": 0.67
+  },
+  "verified": true,
+  "problems": [],
+  "quality_flags": []
+ },
+ {
+  "rank": 20,
+  "kind": "stitched",
+  "duration_s": 32.3,
+  "score": 0.644,
+  "segments": [
+   {
+    "episode": 29,
+    "start": "00:40.00",
+    "end": "00:59.20",
+    "start_s": 40.0,
+    "end_s": 59.2
+   },
+   {
+    "episode": 29,
+    "start": "01:23.00",
+    "end": "01:36.10",
+    "start_s": 83.0,
+    "end_s": 96.1
+   }
+  ],
+  "hook": "Juliana: \"You know that is a lie!\"",
+  "hook_at": "00:40.10",
+  "cliffhanger": "Juliana: \"Mother...\"",
+  "cliffhanger_type": "trailing line",
+  "why_it_works": "Opens on a shouted line; ends on trailing line; has context signals for a new viewer (heuristic; verify in footage) (stitched setup+payoff)",
+  "cliffhanger_at": "01:34.20",
+  "scores": {
+   "hook": 0.9,
+   "cliff": 0.55,
+   "standalone": 0.63,
+   "energy": 0.45,
+   "length": 1.0
+  },
+  "verified": true,
+  "problems": [],
+  "quality_flags": []
+ },
+ {
+  "rank": 21,
+  "kind": "continuous",
+  "duration_s": 53.8,
+  "score": 0.642,
+  "segments": [
+   {
+    "episode": 13,
+    "start": "00:24.20",
+    "end": "01:18.00",
+    "start_s": 24.2,
+    "end_s": 78.0
+   }
+  ],
+  "hook": "Alexander: \"I would rather face the gallows than watch you hurt yourself for me.\"",
+  "hook_at": "00:24.20",
+  "cliffhanger": "Juliana drags her body across the frozen, cracked soil beneath the dense roof of briars.",
+  "cliffhanger_type": "violent action",
+  "why_it_works": "Opens on an intense line; ends on violent action; has context signals for a new viewer (heuristic; verify in footage)",
+  "cliffhanger_at": "01:14.50",
+  "scores": {
+   "hook": 0.7,
+   "cliff": 0.67,
+   "standalone": 0.75,
+   "energy": 0.37,
+   "length": 0.81
+  },
+  "verified": true,
+  "problems": [],
+  "quality_flags": []
+ },
+ {
+  "rank": 22,
+  "kind": "continuous",
+  "duration_s": 44.9,
+  "score": 0.673,
+  "segments": [
+   {
+    "episode": 1,
+    "start": "01:14.60",
+    "end": "01:59.50",
+    "start_s": 74.6,
+    "end_s": 119.5
+   }
+  ],
+  "hook": "Lady In Gold Gown: \"Long enough to know he was never going to marry you.\"",
+  "hook_at": "01:15.00",
+  "cliffhanger": "Lady Juliana: \"So that is what I was worth to you?\"",
+  "cliffhanger_type": "unanswered question",
+  "why_it_works": "Opens on an intense line; ends on unanswered question; has context signals for a new viewer (heuristic; verify in footage)",
+  "cliffhanger_at": "01:57.00",
+  "scores": {
+   "hook": 0.7,
+   "cliff": 0.6,
+   "standalone": 0.85,
+   "energy": 0.37,
+   "length": 1.0
+  },
+  "verified": true,
+  "problems": [],
+  "quality_flags": []
+ },
+ {
+  "rank": 23,
+  "kind": "stitched",
+  "duration_s": 28.9,
+  "score": 0.668,
+  "segments": [
+   {
+    "episode": 27,
+    "start": "00:34.90",
+    "end": "00:48.80",
+    "start_s": 34.9,
+    "end_s": 48.8
+   },
+   {
+    "episode": 27,
+    "start": "01:17.80",
+    "end": "01:32.80",
+    "start_s": 77.8,
+    "end_s": 92.8
+   }
+  ],
+  "hook": "Dowager Duchess: \"My lost son wore that ring!\"",
+  "hook_at": "00:35.20",
+  "cliffhanger": "Blond Nobleman: \"And you decided you knew better than every physician in this house?\"",
+  "cliffhanger_type": "unanswered question",
+  "why_it_works": "Opens on a shouted line; ends on unanswered question; has context signals for a new viewer (heuristic; verify in footage) (stitched setup+payoff)",
+  "cliffhanger_at": "01:28.20",
+  "scores": {
+   "hook": 0.75,
+   "cliff": 0.7,
+   "standalone": 0.73,
+   "energy": 0.45,
+   "length": 1.0
+  },
+  "verified": true,
+  "problems": [],
+  "quality_flags": [
+   "Camera notes leave 1 gap(s) in range (longest 3.8s; 3.8s total overlap); verify against footage."
+  ]
+ },
+ {
+  "rank": 24,
+  "kind": "continuous",
+  "duration_s": 39.0,
+  "score": 0.652,
+  "segments": [
+   {
+    "episode": 15,
+    "start": "00:07.50",
+    "end": "00:46.50",
+    "start_s": 7.5,
+    "end_s": 46.5
+   }
+  ],
+  "hook": "Juliana: \"Stop! What are you doing?!\"",
+  "hook_at": "00:08.50",
+  "cliffhanger": "Thug With Cap: \"Get out of the way!\"",
+  "cliffhanger_type": "threat/ultimatum",
+  "why_it_works": "Opens on a confrontational question; ends on threat/ultimatum; has context signals for a new viewer (heuristic; verify in footage)",
+  "cliffhanger_at": "00:44.80",
+  "scores": {
+   "hook": 0.85,
+   "cliff": 0.45,
+   "standalone": 0.67,
+   "energy": 0.5,
+   "length": 1.0
+  },
+  "verified": true,
+  "problems": [],
+  "quality_flags": []
+ },
+ {
+  "rank": 25,
+  "kind": "continuous",
+  "duration_s": 28.4,
+  "score": 0.622,
+  "segments": [
+   {
+    "episode": 30,
+    "start": "01:13.50",
+    "end": "01:41.90",
+    "start_s": 73.5,
+    "end_s": 101.9
+   }
+  ],
+  "hook": "Elder Nobleman: \"Give those facts to a magistrate in the right order, and she becomes a poisoner.\"",
+  "hook_at": "01:15.00",
+  "cliffhanger": "Elder Nobleman: \"Do not hide the evidence, manufacture it. Drag her before the magistrate tomorrow, frame the trial, buy the jury, and let the State hang her.\"",
+  "cliffhanger_type": "ticking clock",
+  "why_it_works": "Opens on an intense line; ends on ticking clock; has context signals for a new viewer (heuristic; verify in footage)",
+  "cliffhanger_at": "01:34.60",
+  "scores": {
+   "hook": 0.7,
+   "cliff": 0.6,
+   "standalone": 0.6,
+   "energy": 0.33,
+   "length": 1.0
+  },
+  "verified": true,
+  "problems": [],
+  "quality_flags": []
+ },
+ {
+  "rank": 26,
+  "kind": "continuous",
+  "duration_s": 21.8,
+  "score": 0.688,
+  "segments": [
+   {
+    "episode": 43,
+    "start": "01:33.20",
+    "end": "01:54.96",
+    "start_s": 93.2,
+    "end_s": 114.96
+   }
+  ],
+  "hook": "Blond Nobleman: \"I was told he was dead!\"",
+  "hook_at": "01:33.40",
+  "cliffhanger": "Police Constable: \"Going somewhere, Lord Sterling?\"",
+  "cliffhanger_type": "unanswered question",
+  "why_it_works": "Opens on a shouted line; ends on unanswered question; has context signals for a new viewer (heuristic; verify in footage)",
+  "cliffhanger_at": "01:50.40",
+  "scores": {
+   "hook": 0.9,
+   "cliff": 0.64,
+   "standalone": 0.74,
+   "energy": 0.43,
+   "length": 0.61
+  },
+  "verified": true,
+  "problems": [],
+  "quality_flags": []
+ },
+ {
+  "rank": 27,
+  "kind": "continuous",
+  "duration_s": 35.1,
+  "score": 0.617,
+  "segments": [
+   {
+    "episode": 25,
+    "start": "00:44.40",
+    "end": "01:19.50",
+    "start_s": 44.4,
+    "end_s": 79.5
+   }
+  ],
+  "hook": "Alexander: \"What were you doing there?\"",
+  "hook_at": "00:44.60",
+  "cliffhanger": "Alexander: \"What did you find?\"",
+  "cliffhanger_type": "unanswered question",
+  "why_it_works": "Opens on a confrontational question; ends on unanswered question; has context signals for a new viewer (heuristic; verify in footage)",
+  "cliffhanger_at": "01:17.40",
+  "scores": {
+   "hook": 0.65,
+   "cliff": 0.6,
+   "standalone": 0.67,
+   "energy": 0.3,
+   "length": 1.0
+  },
+  "verified": true,
+  "problems": [],
+  "quality_flags": []
+ },
+ {
+  "rank": 28,
+  "kind": "continuous",
+  "duration_s": 26.0,
+  "score": 0.632,
+  "segments": [
+   {
+    "episode": 33,
+    "start": "01:51.80",
+    "end": "02:17.80",
+    "start_s": 111.8,
+    "end_s": 137.8
+   }
+  ],
+  "hook": "Maid: \"I don't know!\"",
+  "hook_at": "01:52.00",
+  "cliffhanger": "Close-up of the maid's face frozen in horrified realization.",
+  "cliffhanger_type": "shocked/smug reaction beat",
+  "why_it_works": "Opens on a shouted line; ends on shocked/smug reaction beat; may rely on earlier context; check standalone clarity",
+  "cliffhanger_at": "02:14.50",
+  "scores": {
+   "hook": 0.63,
+   "cliff": 0.78,
+   "standalone": 0.5,
+   "energy": 0.33,
+   "length": 0.88
+  },
+  "verified": true,
+  "problems": [],
+  "quality_flags": []
+ },
+ {
+  "rank": 29,
+  "kind": "continuous",
+  "duration_s": 44.9,
+  "score": 0.616,
+  "segments": [
+   {
+    "episode": 31,
+    "start": "01:17.60",
+    "end": "02:02.50",
+    "start_s": 77.6,
+    "end_s": 122.5
+   }
+  ],
+  "hook": "Catherine: \"You call that marriage?\"",
+  "hook_at": "01:17.80",
+  "cliffhanger": "Juliana: \"Then why are you so desperate to make me kneel?\"",
+  "cliffhanger_type": "unanswered question",
+  "why_it_works": "Opens on a confrontational question; ends on unanswered question; has context signals for a new viewer (heuristic; verify in footage)",
+  "cliffhanger_at": "01:58.40",
+  "scores": {
+   "hook": 0.65,
+   "cliff": 0.5,
+   "standalone": 0.74,
+   "energy": 0.43,
+   "length": 1.0
+  },
+  "verified": true,
+  "problems": [],
+  "quality_flags": []
+ },
+ {
+  "rank": 30,
+  "kind": "cross-episode",
+  "duration_s": 36.6,
+  "score": 0.628,
+  "segments": [
+   {
+    "episode": 12,
+    "start": "01:05.20",
+    "end": "01:21.80",
+    "start_s": 65.2,
+    "end_s": 81.8
+   },
+   {
+    "episode": 13,
+    "start": "01:14.00",
+    "end": "01:34.00",
+    "start_s": 74.0,
+    "end_s": 94.0
+   }
+  ],
+  "hook": "Clarissa: \"Fail, or refuse, and your husband hangs from the gallows.\"",
+  "hook_at": "01:05.40",
+  "cliffhanger": "Juliana digs her torn fingers into the frost-hardened earth, turning over rocks and dead vegetation.",
+  "cliffhanger_type": "violent action",
+  "why_it_works": "Opens on an intense line; ends on violent action; may rely on earlier context; check standalone clarity (cross-episode stitch)",
+  "cliffhanger_at": "01:29.20",
+  "scores": {
+   "hook": 0.95,
+   "cliff": 0.67,
+   "standalone": 0.49,
+   "energy": 0.43,
+   "length": 1.0
+  },
+  "verified": true,
+  "problems": [],
+  "quality_flags": []
+ }
+]

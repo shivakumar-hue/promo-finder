@@ -1,0 +1,398 @@
+{
+ "1": {
+  "runtime_seconds": 138.0,
+  "scene_count": 1,
+  "issues": [
+   "camera gap 00:13.20->00:14.30 (1.1s no shot)",
+   "camera gap 00:35.30->00:36.50 (1.2s no shot)"
+  ]
+ },
+ "2": {
+  "runtime_seconds": 110.0,
+  "scene_count": 1,
+  "issues": []
+ },
+ "3": {
+  "runtime_seconds": 145.75,
+  "scene_count": 3,
+  "issues": [
+   "camera gap 00:58.20->01:00.00 (1.8s no shot)",
+   "camera gap 01:03.20->01:04.50 (1.3s no shot)",
+   "dialogue overlap 'LADY IN GOLD GOWN'/'LADY IN GOLD GOWN' at 00:03.60"
+  ]
+ },
+ "4": {
+  "runtime_seconds": 151.4,
+  "scene_count": 1,
+  "issues": []
+ },
+ "5": {
+  "runtime_seconds": 110.5,
+  "scene_count": 1,
+  "issues": [
+   "camera gap 00:29.00->00:33.50 (4.5s no shot)",
+   "camera gap 00:48.80->00:51.80 (3.0s no shot)",
+   "camera gap 01:12.50->01:14.50 (2.0s no shot)",
+   "dialogue overlap 'CLARISSA'/'GERALD' at 01:02.40"
+  ]
+ },
+ "6": {
+  "runtime_seconds": 115.0,
+  "scene_count": 2,
+  "issues": [
+   "camera gap 00:33.70->00:36.70 (3.0s no shot)",
+   "dialogue overlap 'JULIANA'/'MYSTERIOUS BEARDED MAN' at 01:06.70"
+  ]
+ },
+ "7": {
+  "runtime_seconds": 116.0,
+  "scene_count": 3,
+  "issues": [
+   "camera gap 00:19.50->00:24.50 (5.0s no shot)",
+   "camera gap 01:28.00->01:31.50 (3.5s no shot)",
+   "camera gap 01:33.80->01:36.00 (2.2s no shot)"
+  ]
+ },
+ "8": {
+  "runtime_seconds": 78.0,
+  "scene_count": 1,
+  "issues": []
+ },
+ "9": {
+  "runtime_seconds": 115.5,
+  "scene_count": 2,
+  "issues": [
+   "camera gap 00:02.80->00:03.50 (0.7s no shot)",
+   "camera gap 00:27.50->00:28.80 (1.3s no shot)",
+   "camera gap 00:38.00->00:43.00 (5.0s no shot)",
+   "camera gap 01:08.50->01:11.00 (2.5s no shot)"
+  ]
+ },
+ "10": {
+  "runtime_seconds": 94.0,
+  "scene_count": 1,
+  "issues": [
+   "camera gap 01:17.00->01:19.00 (2.0s no shot)"
+  ]
+ },
+ "11": {
+  "runtime_seconds": 112.75,
+  "scene_count": 2,
+  "issues": [
+   "camera gap 00:56.00->00:58.00 (2.0s no shot)",
+   "camera gap 01:00.00->01:01.80 (1.8s no shot)",
+   "camera gap 01:24.00->01:25.00 (1.0s no shot)",
+   "camera gap 01:32.00->01:33.20 (1.2s no shot)",
+   "line too fast for speech at 00:25.20"
+  ]
+ },
+ "12": {
+  "runtime_seconds": 87.21,
+  "scene_count": 1,
+  "issues": [
+   "camera gap 00:26.90->00:28.00 (1.1s no shot)"
+  ]
+ },
+ "13": {
+  "runtime_seconds": 118.88,
+  "scene_count": 2,
+  "issues": []
+ },
+ "14": {
+  "runtime_seconds": 87.63,
+  "scene_count": 3,
+  "issues": []
+ },
+ "15": {
+  "runtime_seconds": 86.0,
+  "scene_count": 1,
+  "issues": [
+   "camera gap 00:48.00->00:49.50 (1.5s no shot)",
+   "camera gap 01:00.00->01:02.00 (2.0s no shot)"
+  ]
+ },
+ "16": {
+  "runtime_seconds": 83.19,
+  "scene_count": 1,
+  "issues": [
+   "camera gap 00:13.10->00:14.30 (1.2s no shot)",
+   "camera gap 00:16.00->00:16.80 (0.8s no shot)",
+   "camera gap 00:19.50->00:21.80 (2.3s no shot)",
+   "camera gap 00:48.50->00:49.80 (1.3s no shot)"
+  ]
+ },
+ "17": {
+  "runtime_seconds": 118.88,
+  "scene_count": 2,
+  "issues": [
+   "camera gap 00:25.80->00:26.50 (0.7s no shot)",
+   "camera gap 00:30.00->00:31.50 (1.5s no shot)",
+   "camera gap 01:18.00->01:20.50 (2.5s no shot)",
+   "camera gap 01:40.00->01:42.50 (2.5s no shot)"
+  ]
+ },
+ "18": {
+  "runtime_seconds": 192.0,
+  "scene_count": 5,
+  "issues": [
+   "camera gap 00:05.80->00:09.50 (3.7s no shot)",
+   "camera gap 00:16.20->00:20.10 (3.9s no shot)",
+   "camera gap 00:26.00->00:28.90 (2.9s no shot)",
+   "camera gap 00:33.00->00:36.50 (3.5s no shot)",
+   "camera gap 00:39.00->00:43.50 (4.5s no shot)",
+   "camera gap 00:56.20->01:03.00 (6.8s no shot)",
+   "camera gap 01:05.50->01:10.50 (5.0s no shot)",
+   "camera gap 01:13.50->01:21.50 (8.0s no shot)",
+   "camera gap 01:26.50->01:29.50 (3.0s no shot)",
+   "camera gap 01:34.00->01:38.50 (4.5s no shot)",
+   "camera gap 01:41.50->01:46.80 (5.3s no shot)",
+   "camera gap 01:54.00->01:55.50 (1.5s no shot)",
+   "camera gap 02:20.00->02:45.50 (25.5s no shot)",
+   "camera gap 02:59.50->03:06.50 (7.0s no shot)",
+   "dialogue overlap 'ALEXANDER'/'JULIANA' at 01:15.00"
+  ]
+ },
+ "19": {
+  "runtime_seconds": 119.63,
+  "scene_count": 3,
+  "issues": [
+   "camera gap 00:18.50->00:25.80 (7.3s no shot)",
+   "camera gap 00:30.80->00:34.80 (4.0s no shot)",
+   "camera gap 00:38.20->00:41.50 (3.3s no shot)",
+   "camera gap 00:44.20->00:46.00 (1.8s no shot)",
+   "camera gap 00:49.20->00:55.30 (6.1s no shot)",
+   "camera gap 01:16.20->01:18.80 (2.6s no shot)",
+   "camera gap 01:23.80->01:25.50 (1.7s no shot)",
+   "camera gap 01:37.80->01:39.90 (2.1s no shot)",
+   "camera gap 01:43.00->01:46.00 (3.0s no shot)",
+   "camera gap 01:49.80->01:52.50 (2.7s no shot)"
+  ]
+ },
+ "20": {
+  "runtime_seconds": 114.75,
+  "scene_count": 4,
+  "issues": [
+   "camera gap 01:00.30->01:06.80 (6.5s no shot)",
+   "camera gap 01:28.20->01:29.80 (1.6s no shot)",
+   "dialogue overlap 'RUPERT'/'CATHERINE' at 00:34.20",
+   "line too fast for speech at 01:09.20"
+  ]
+ },
+ "21": {
+  "runtime_seconds": 114.0,
+  "scene_count": 3,
+  "issues": [
+   "camera gap 00:56.20->00:58.50 (2.3s no shot)",
+   "dialogue overlap 'PRUDENCE'/'LADY JULIANA' at 00:25.10"
+  ]
+ },
+ "22": {
+  "runtime_seconds": 131.0,
+  "scene_count": 4,
+  "issues": [
+   "camera gap 00:07.00->00:11.10 (4.1s no shot)",
+   "camera gap 00:39.80->00:43.00 (3.2s no shot)",
+   "camera gap 01:53.80->01:55.50 (1.7s no shot)"
+  ]
+ },
+ "23": {
+  "runtime_seconds": 131.5,
+  "scene_count": 1,
+  "issues": [
+   "camera gap 00:57.50->00:58.50 (1.0s no shot)"
+  ]
+ },
+ "24": {
+  "runtime_seconds": 92.0,
+  "scene_count": 2,
+  "issues": [
+   "camera gap 00:32.80->00:33.80 (1.0s no shot)",
+   "line too fast for speech at 00:20.80"
+  ]
+ },
+ "25": {
+  "runtime_seconds": 168.0,
+  "scene_count": 1,
+  "issues": [
+   "camera gap 00:32.80->00:34.50 (1.7s no shot)"
+  ]
+ },
+ "26": {
+  "runtime_seconds": 120.88,
+  "scene_count": 1,
+  "issues": []
+ },
+ "27": {
+  "runtime_seconds": 150.5,
+  "scene_count": 1,
+  "issues": [
+   "camera gap 00:40.40->00:44.20 (3.8s no shot)",
+   "camera gap 01:13.80->01:14.80 (1.0s no shot)"
+  ]
+ },
+ "28": {
+  "runtime_seconds": 138.5,
+  "scene_count": 1,
+  "issues": [
+   "camera overlap 00:08.20-00:10.00",
+   "dialogue overlap 'JULIANA'/'JULIANA' at 00:49.50",
+   "dialogue overlap 'DOWAGER DUCHESS'/'BLOND NOBLEMAN' at 00:58.60"
+  ]
+ },
+ "29": {
+  "runtime_seconds": 116.69,
+  "scene_count": 3,
+  "issues": []
+ },
+ "30": {
+  "runtime_seconds": 151.21,
+  "scene_count": 3,
+  "issues": []
+ },
+ "31": {
+  "runtime_seconds": 160.0,
+  "scene_count": 1,
+  "issues": [
+   "camera gap 01:50.50->01:51.50 (1.0s no shot)",
+   "camera gap 02:02.50->02:04.00 (1.5s no shot)"
+  ]
+ },
+ "32": {
+  "runtime_seconds": 154.38,
+  "scene_count": 1,
+  "issues": [
+   "dialogue overlap 'JULIANA'/'CATHERINE' at 01:30.10"
+  ]
+ },
+ "33": {
+  "runtime_seconds": 174.04,
+  "scene_count": 1,
+  "issues": []
+ },
+ "34": {
+  "runtime_seconds": 190.0,
+  "scene_count": 1,
+  "issues": [
+   "camera gap 02:58.20->02:59.50 (1.3s no shot)"
+  ]
+ },
+ "35": {
+  "runtime_seconds": 157.5,
+  "scene_count": 3,
+  "issues": [
+   "camera gap 00:05.20->00:09.00 (3.8s no shot)",
+   "camera gap 00:12.80->00:15.50 (2.7s no shot)",
+   "camera gap 00:44.20->01:06.50 (22.3s no shot)",
+   "camera gap 01:11.00->01:14.20 (3.2s no shot)",
+   "camera gap 01:18.00->01:23.00 (5.0s no shot)",
+   "camera gap 01:27.00->01:29.80 (2.8s no shot)",
+   "camera gap 01:32.00->01:33.50 (1.5s no shot)",
+   "camera gap 01:37.50->01:41.20 (3.7s no shot)",
+   "camera gap 01:46.50->01:50.00 (3.5s no shot)",
+   "camera gap 01:58.00->02:02.00 (4.0s no shot)",
+   "camera gap 02:09.50->02:25.00 (15.5s no shot)"
+  ]
+ },
+ "36": {
+  "runtime_seconds": 200.75,
+  "scene_count": 1,
+  "issues": [
+   "camera gap 02:57.00->02:59.50 (2.5s no shot)"
+  ]
+ },
+ "37": {
+  "runtime_seconds": 156.47,
+  "scene_count": 4,
+  "issues": [
+   "camera gap 00:39.80->00:44.00 (4.2s no shot)",
+   "camera gap 00:56.00->00:58.50 (2.5s no shot)"
+  ]
+ },
+ "38": {
+  "runtime_seconds": 87.91,
+  "scene_count": 1,
+  "issues": []
+ },
+ "39": {
+  "runtime_seconds": 98.41,
+  "scene_count": 5,
+  "issues": [
+   "line too fast for speech at 00:22.50"
+  ]
+ },
+ "40": {
+  "runtime_seconds": 110.08,
+  "scene_count": 4,
+  "issues": [
+   "camera gap 00:30.00->00:34.20 (4.2s no shot)"
+  ]
+ },
+ "41": {
+  "runtime_seconds": 96.09,
+  "scene_count": 1,
+  "issues": [
+   "camera gap 00:01.80->00:04.50 (2.7s no shot)"
+  ]
+ },
+ "42": {
+  "runtime_seconds": 77.8,
+  "scene_count": 1,
+  "issues": [
+   "camera gap 00:10.50->00:14.60 (4.1s no shot)",
+   "camera gap 00:44.80->00:54.00 (9.2s no shot)",
+   "camera gap 01:03.50->01:12.50 (9.0s no shot)"
+  ]
+ },
+ "43": {
+  "runtime_seconds": 114.96,
+  "scene_count": 1,
+  "issues": []
+ },
+ "44": {
+  "runtime_seconds": 70.5,
+  "scene_count": 2,
+  "issues": []
+ },
+ "45": {
+  "runtime_seconds": 121.75,
+  "scene_count": 3,
+  "issues": []
+ },
+ "46": {
+  "runtime_seconds": 143.88,
+  "scene_count": 1,
+  "issues": [
+   "camera gap 02:04.00->02:06.50 (2.5s no shot)",
+   "dialogue overlap 'HIGH PRIEST'/'HIGH PRIEST' at 01:32.20"
+  ]
+ },
+ "47": {
+  "runtime_seconds": 134.0,
+  "scene_count": 4,
+  "issues": [
+   "camera gap 00:30.50->00:35.50 (5.0s no shot)",
+   "camera gap 00:45.80->00:55.50 (9.7s no shot)",
+   "camera gap 01:31.00->01:35.50 (4.5s no shot)"
+  ]
+ },
+ "48": {
+  "runtime_seconds": 80.0,
+  "scene_count": 2,
+  "issues": [
+   "camera gap 00:08.50->00:12.30 (3.8s no shot)",
+   "camera gap 00:30.80->00:32.00 (1.2s no shot)"
+  ]
+ },
+ "49": {
+  "runtime_seconds": 144.75,
+  "scene_count": 1,
+  "issues": [
+   "line too fast for speech at 00:42.00"
+  ]
+ },
+ "50": {
+  "runtime_seconds": 80.0,
+  "scene_count": 2,
+  "issues": []
+ }
+}
